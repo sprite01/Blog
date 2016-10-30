@@ -6,7 +6,7 @@ title:               Sprite
 tagline:             /yamato wada
 url:                 https://sprite01.github.io/Blog/
 paginate:            1
-baseurl:             "https://sprite01.github.io/Blog/"
+baseurl:             "/Blog"
 
 # Assets
 #
